@@ -1,0 +1,13 @@
+Paquetes necesarios
+
+- apt-get install curl
+
+- pkg install curl
+
+- apt-get install wget
+
+- pkg install wget
+
+- apt-get install nmap 
+
+- pkg install nmap -y

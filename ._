@@ -1,0 +1,6 @@
+#!bin/bash
+echo ""
+echo -ne "\e[1;32mRASTREAR IP: ";
+read IP
+echo ""
+curl ipinfo.io/$IP
