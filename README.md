@@ -1,4 +1,16 @@
-#HOST-EXTRACTOR-V2.SH
+...............................
+#Nombre del script: Irparpayaña
+...............................
+#Significado: Acompañar a uno hasta ponerlo en camino 
+#Lengua: Aymara - Perú
+..............................
+.........................
+#NAME SCRIPT: Irparpayaña
+.........................
+#Irparpayaña meaning = Accompany one to put it on the road.
+#Language: Aymara - Perú 
+.........................
+
 #Domingo 09/12/2018
 #Martes 15/01/2019
 #by: real strategy / rwam
@@ -24,7 +36,9 @@ PASO N°2
 
 #Instalar el script host-extractor-v2
 
-git clone https://github.com/HackeRStrategy/host-extractor-v2.git
+git clone https://github.com/HackeRStrategy/Irparpaya-a.git
+
+cd Irparpaya-a
 
 chmod +x real-host-v2.sh
 
