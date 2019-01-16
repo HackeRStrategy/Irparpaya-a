@@ -92,7 +92,7 @@ read foo
 8)echo ""
 echo -e "\e[1;33mCREDITOS AL DESARROLLADOR\e[0m"
 echo ""
-echo -e "\e[1;31mCoder: @RealStrategy"
+echo -e "\e[1;31mCoder: @RealStrategy y el grupo vip RS"
 echo -e "\e[1;32m"
 echo "YOUTUBE : https://youtube.com/RealHackRWAM "
 echo "TELEGRAM: https://t.me/RealHackRWAM "
