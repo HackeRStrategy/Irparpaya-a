@@ -1,0 +1,55 @@
+.........................
+#NAME SCRIPT: Irparpayaña
+.........................
+#Irparpayaña meaning = Accompany one to put it on the road.
+#Language: Aymara - Perú 
+.........................
+#Sunday 09/12/2018
+#Tuesday 01/15/2019
+#By: real strategy / rwam
+........................
+
+OPTIONS:
+
+[1] Extracts url from websites like http and https
+[2] Shows website status
+[3] A pad to add websites
+[4] Generate functional payload of websites / host
+[5] Show the ports that are open in web services / IP / proxy
+ - Put a comma after each port, example: 22,53,443,80,8080
+[6] View proxy or information from a website or IP
+[7] How to use the host-extractor-v2.sh script
+[8] A message from me to the public
+[0] Exit menu 0 and 0 exit the menu in Spanish
+[98] Change the language to English
+[99] Change the language to Spanish
+
+[xx.xx] Secret menu :)
+
+
+
+DATA:
+
+TELEGRAM CHANNEL:
+
+https://t.me/RealHackRWAM
+
+GRUPO TELEGRAM:
+
+https://t.me/RealStrategyRS
+
+YOUTUBE CHANNEL:
+
+https://youtube.com/RealHackRWAM
+
+FACEBOOK GROUP:
+
+https://m.facebook.com/groups/142565756559228
+
+CHANNEL FACEBOOK
+
+https://m.facebook.com/RealHackRWAM
+
+
+
+PRESS AN ENTER TO CONTINUE ...

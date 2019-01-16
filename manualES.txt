@@ -1,0 +1,55 @@
+...............................
+#Nombre del script: Irparpayaña
+...............................
+#Significado: Acompañar a uno hasta ponerlo en camino 
+#Lengua: Aymara - Perú
+..............................
+#Domingo 09/12/2018
+#Martes 15/01/2019
+#by: real strategy / rwam
+..............................
+
+OPCIONES:
+
+[1] Extrae url de sitios web como http y https
+[2] Muestra estatus de sitios web
+[3] Un bloc para agregar sitios web 
+[4] Genera payload funcionales de sitios web / host
+[5] Muestra los puertos que esta abiertos en servicios web / IP/ proxy
+ - Poner una coma después de cada puerto, ejemplo: 22,53,443,80,8080 
+[6] Ver proxy o informacion de un sitio web o IP
+[7] Manual de como usar el script host-extractor-v2.sh
+[8] Un mensaje de parte de mio hacia el público 
+[0] Salir del menu 0 y 0 salir del menu en español
+[98] Cambiar el idioma al inglés
+[99] Cambiar el idioma al español
+
+[xx.xx] Menu secreto :)
+
+
+
+DATOS:
+
+CANAL TELEGRAM:
+
+https://t.me/RealHackRWAM
+
+GRUPO TELEGRAM:
+
+https://t.me/RealStrategyRS
+
+CANAL YOUTUBE:
+
+https://youtube.com/RealHackRWAM
+
+GRUPO FACEBOOK:
+
+https://m.facebook.com/groups/142565756559228
+
+CANAL FACEBOOK
+
+https://m.facebook.com/RealHackRWAM
+
+
+
+PRESIONA UNA ENTER PARA CONTINUAR...
