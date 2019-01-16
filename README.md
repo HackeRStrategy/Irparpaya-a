@@ -1,2 +1,2 @@
-# Irparpaya-a
-Herramienta diseñada para sacar la mayor informacion de páginas web y crear payload de inyección (sacar metodos de internet ilimitado)
+# Irparpayaña
+Herramienta para la mayor información de páginas web y crear la carga de inyección.
