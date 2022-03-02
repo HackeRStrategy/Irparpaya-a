@@ -17,6 +17,16 @@
 
 #Script diseñado para la extracción de url de páginas web, Mostrar los estatus que arrojan cada uno de dichos host y analizar los servicios que brinda con un scan usando nmap 
 
+LISTA DE SERVICIOS:
+
+- SCAN DE HOST (HTTP/SSL)
+- MUESTRA EL STATUS WEB (200/301)
+- OPCION DE CAMBIAR IDIOMA ESPAÑOL Y INGLES
+- GENERADOR DE PAYLOAD AVANZADOS
+- MUESTRA PUERTOS DE CUALQUIER DOMINIO
+- MUESTRA INFORMACION DE IP Y PROXYS
+- RASTREO DE IP Y GEOLOCALIZACION
+
 PASO N°1
 
 #Instalar paquetes para el buen inicio del script
@@ -62,12 +72,7 @@ https://youtube.com/RealHackRWAM
 
 GRUPO FACEBOOK:
 
-https://m.facebook.com/groups/142565756559228
-
-CANAL FACEBOOK
-
-https://m.facebook.com/RealHackRWAM
-
+https://web.facebook.com/groups/nuncadejesdeaprender
 
 
 PRESIONA UNA ENTER PARA CONTINUAR...
