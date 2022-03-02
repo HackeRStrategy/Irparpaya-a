@@ -2,7 +2,7 @@
 echo -e "\e[1;32m"
 if [ $@ > 0 ]
 then
-	list=`wget -O - $1 -q | grep -i "href=['|\"]" | sed "s/^.*href=['|\"]//" | awk -F"[\"|']" '{print $1}' | sort -u`
+	list=`wget -O - $1 -q --no-check-certificate | grep -i "href=['|\"]" | sed "s/^.*href=['|\"]//" | awk -F"[\"|']" '{print $1}' | sort -u`
 	for url in $list
 	do
 		if [ ${#url} -ge 4 -a ${url:0:4} = "http" ];then
