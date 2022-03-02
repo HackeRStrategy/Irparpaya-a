@@ -1,19 +1,19 @@
-...............................
 #Nombre del script: Irparpayaña
-...............................
+
 #Significado: Acompañar a uno hasta ponerlo en camino 
+
 #Lengua: Aymara - Perú
-..............................
-.........................
+
 #NAME SCRIPT: Irparpayaña
-.........................
+
 #Irparpayaña meaning = Accompany one to put it on the road.
+
 #Language: Aymara - Perú 
-.........................
 
 #Domingo 09/12/2018
 #Martes 15/01/2019
 #by: real strategy / rwam
+#Edit: 01/03/2022 / Todo Real
 
 #Script diseñado para la extracción de url de páginas web, Mostrar los estatus que arrojan cada uno de dichos host y analizar los servicios que brinda con un scan usando nmap 
 
