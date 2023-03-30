@@ -1,4 +1,4 @@
-#Nombre del script: Irparpayaña
+# Nombre del script: Irparpayaña
 
 #Significado: Acompañar a uno hasta ponerlo en camino 
 
