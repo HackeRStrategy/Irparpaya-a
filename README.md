@@ -10,10 +10,10 @@
 
 #Language: Aymara - Perú 
 
-#Domingo 09/12/2018
-#Martes 15/01/2019
+#InicioDomingo 09/12/2018
+#MejoriaMartes 15/01/2019
 #by: real strategy / rwam
-#Edit: 01/03/2022 / Todo Real
+#Actualizado: 01/03/2022 / Todo Real
 
 #Script diseñado para la extracción de url de páginas web, Mostrar los estatus que arrojan cada uno de dichos host y analizar los servicios que brinda con un scan usando nmap 
 
@@ -55,16 +55,15 @@ chmod +x real-host-v2.sh
 bash real-host-v2.sh
 
 
-
 DATOS:
+
+PAGINA WEB:
+
+https://todoreal.com
 
 CANAL TELEGRAM:
 
 https://t.me/RealHackRWAM
-
-GRUPO TELEGRAM:
-
-https://t.me/RealStrategyRS
 
 CANAL YOUTUBE:
 
@@ -73,6 +72,5 @@ https://youtube.com/RealHackRWAM
 GRUPO FACEBOOK:
 
 https://web.facebook.com/groups/nuncadejesdeaprender
-
 
 PRESIONA UNA ENTER PARA CONTINUAR...
